@@ -1,4 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
 # Clima ☁
@@ -20,4 +19,3 @@
 - How to use the TextField Widget to take user input.
 
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
